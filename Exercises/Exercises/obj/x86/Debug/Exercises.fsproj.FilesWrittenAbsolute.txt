@@ -1,0 +1,5 @@
+/Users/azadi/Documents/workspace/FSharp-Projects/Exercises/Exercises/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/azadi/Documents/workspace/FSharp-Projects/Exercises/Exercises/bin/Debug/Exercises.exe.mdb
+/Users/azadi/Documents/workspace/FSharp-Projects/Exercises/Exercises/bin/Debug/Exercises.exe
+/Users/azadi/Documents/workspace/FSharp-Projects/Exercises/Exercises/obj/x86/Debug/Exercises.exe
+/Users/azadi/Documents/workspace/FSharp-Projects/Exercises/Exercises/obj/x86/Debug/Exercises.exe.mdb
